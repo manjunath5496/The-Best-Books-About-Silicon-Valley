@@ -194,6 +194,11 @@ How Chinese, French, German, Indian, Israeli and other foreignborn entrepreneurs
 Economy: Flexible Labor Markets in Silicon Valley</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-About-Silicon-Valley/blob/master/sdk(62).pdf" style="text-decoration:none;">Zero to One: Notes on Startups, or How to Build the Future</a></li>
-   
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-About-Silicon-Valley/blob/master/sdk(63).rar" style="text-decoration:none;">The 4-Hour Workweek</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-About-Silicon-Valley/blob/master/sdk(64).pdf" style="text-decoration:none;">The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-About-Silicon-Valley/blob/master/sdk(65).pdf" style="text-decoration:none;">Troublemakers: Silicon Valley's Coming of Age</a></li>
+     
    
  </ul>
