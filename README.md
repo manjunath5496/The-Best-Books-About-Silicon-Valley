@@ -1,3 +1,79 @@
+<table class="infobox geography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn org">Silicon Valley</div>
+</th>
+</tr>
+<tr>
+<td colspan="2">
+<div class="category">Region</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2">
+<div>&nbsp;<a title="Downtown San Jose" href="https://en.wikipedia.org/wiki/Downtown_San_Jose">Downtown</a>&nbsp;<a title="San Jose, California" href="https://en.wikipedia.org/wiki/San_Jose,_California">San Jose</a>&nbsp;skyline; southward aerial view of Silicon Valley;&nbsp;<a title="Stanford University" href="https://en.wikipedia.org/wiki/Stanford_University">Stanford University</a>&nbsp;in&nbsp;<a title="Stanford, California" href="https://en.wikipedia.org/wiki/Stanford,_California">Stanford</a>.</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a title="" href="https://en.wikipedia.org/wiki/List_of_sovereign_states">Country</a></th>
+<td><a title="United States" href="https://en.wikipedia.org/wiki/United_States">United States</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a title="U.S. state" href="https://en.wikipedia.org/wiki/U.S._state">State</a></th>
+<td><a title="California" href="https://en.wikipedia.org/wiki/California">California</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a title="List of regions of California" href="https://en.wikipedia.org/wiki/List_of_regions_of_California">Region</a></th>
+<td><a title="San Francisco Bay Area" href="https://en.wikipedia.org/wiki/San_Francisco_Bay_Area">San Francisco Bay Area</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a title="Megaregions of the United States" href="https://en.wikipedia.org/wiki/Megaregions_of_the_United_States">Megaregion</a></th>
+<td><a title="Northern California" href="https://en.wikipedia.org/wiki/Northern_California">Northern California</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Municipalities</th>
+<td>
+<div id="NavFrame1" class="NavFrame collapsed">
+<div class="NavHead">List</div>
+<ul class="NavContent">
+<li><a title="Atherton, California" href="https://en.wikipedia.org/wiki/Atherton,_California">Atherton</a></li>
+<li><a title="Belmont, California" href="https://en.wikipedia.org/wiki/Belmont,_California">Belmont</a></li>
+<li><a title="Campbell, California" href="https://en.wikipedia.org/wiki/Campbell,_California">Campbell</a></li>
+<li><a title="Cupertino, California" href="https://en.wikipedia.org/wiki/Cupertino,_California">Cupertino</a></li>
+<li><a title="Fremont, California" href="https://en.wikipedia.org/wiki/Fremont,_California">Fremont</a></li>
+<li><a title="Los Altos, California" href="https://en.wikipedia.org/wiki/Los_Altos,_California">Los Altos</a></li>
+<li><a title="Los Altos Hills, California" href="https://en.wikipedia.org/wiki/Los_Altos_Hills,_California">Los Altos Hills</a></li>
+<li><a title="Los Gatos, California" href="https://en.wikipedia.org/wiki/Los_Gatos,_California">Los Gatos</a></li>
+<li><a title="Menlo Park, California" href="https://en.wikipedia.org/wiki/Menlo_Park,_California">Menlo Park</a></li>
+<li><a title="Milpitas, California" href="https://en.wikipedia.org/wiki/Milpitas,_California">Milpitas</a></li>
+<li><a title="Monte Sereno, California" href="https://en.wikipedia.org/wiki/Monte_Sereno,_California">Monte Sereno</a></li>
+<li><a title="Morgan Hill, California" href="https://en.wikipedia.org/wiki/Morgan_Hill,_California">Morgan Hill</a></li>
+<li><a class="mw-redirect" title="Mountain View, Santa Clara County, California" href="https://en.wikipedia.org/wiki/Mountain_View,_Santa_Clara_County,_California">Mountain View</a></li>
+<li><a title="Palo Alto, California" href="https://en.wikipedia.org/wiki/Palo_Alto,_California">Palo Alto</a></li>
+<li><a title="Redwood City, California" href="https://en.wikipedia.org/wiki/Redwood_City,_California">Redwood City</a></li>
+<li><a title="San Carlos, California" href="https://en.wikipedia.org/wiki/San_Carlos,_California">San Carlos</a></li>
+<li><a title="San Jose, California" href="https://en.wikipedia.org/wiki/San_Jose,_California">San Jose</a></li>
+<li><a title="Santa Clara, California" href="https://en.wikipedia.org/wiki/Santa_Clara,_California">Santa Clara</a></li>
+<li><a title="Saratoga, California" href="https://en.wikipedia.org/wiki/Saratoga,_California">Saratoga</a></li>
+<li><a title="Sunnyvale, California" href="https://en.wikipedia.org/wiki/Sunnyvale,_California">Sunnyvale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a title="Time zone" href="https://en.wikipedia.org/wiki/Time_zone">Time zone</a></th>
+<td><a class="mw-redirect" title="UTC&minus;8" href="https://en.wikipedia.org/wiki/UTC%E2%88%928">UTC&minus;8</a>&nbsp;(<a title="Pacific Time Zone" href="https://en.wikipedia.org/wiki/Pacific_Time_Zone">Pacific</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&nbsp;Summer (<a title="Daylight saving time" href="https://en.wikipedia.org/wiki/Daylight_saving_time">DST</a>)</th>
+<td><a class="mw-redirect" title="UTC&minus;7" href="https://en.wikipedia.org/wiki/UTC%E2%88%927">UTC&minus;7</a>&nbsp;(<a class="mw-redirect" title="Pacific Daylight Time" href="https://en.wikipedia.org/wiki/Pacific_Daylight_Time">PDT</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 <h2> Books </h2>
 <ul>
 
